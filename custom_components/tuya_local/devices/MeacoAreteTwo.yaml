@@ -93,17 +93,7 @@ secondary_entities:
     dps:
       - id: 14
         type: boolean
-        name: lock
-  - entity: sensor
-    translation_key: time_remaining
-    class: duration
-    category: diagnostic
-    dps:
-      - id: 18
-        type: integer
-        optional: true
-        name: sensor
-        unit: h        
+        name: lock  
   - entity: select
     name: Off timer
     translation_key: timer
