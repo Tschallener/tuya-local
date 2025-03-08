@@ -1,6 +1,6 @@
 name: Meaco Arete Two
 primary_entity:
-  Name: Dehumidifier
+  name: Dehumidifier
   entity: humidifier
   class: dehumidifier
   dps:
